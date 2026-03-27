@@ -43,4 +43,4 @@ This reflects a business-first ML approach rather than a purely academic one.
 🚀 Conclusion
 This project demonstrates how machine learning can go beyond metrics and focus on real-world impact, combining prediction with explainability.
 
-![Confusion Matrix]()
+![Confusion Matrix](https://github.com/santoshml-lab/beyond-accuracy-churn-model/blob/main/confusion_matrix%20(2).png)
