@@ -36,8 +36,11 @@ Enables targeted retention campaigns
 Supports data-driven decision making
 ⚖️ Trade-Off Strategy
 High Recall ⚡ vs Low Precision
+
 More churn users detected ✅
 More false positives ⚠️
 This reflects a business-first ML approach rather than a purely academic one.
 🚀 Conclusion
 This project demonstrates how machine learning can go beyond metrics and focus on real-world impact, combining prediction with explainability.
+
+![Confusion Matrix]()
